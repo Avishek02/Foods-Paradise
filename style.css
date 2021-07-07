@@ -7,11 +7,15 @@ h1{
     font-size: 50px;
 }
 
+h2{
+    font-size: 40px;
+}
+
 .orange-color{
     color: orange;
 }
 
-section{
+.flexible-container{
     display: flex;
 }
 
@@ -43,3 +47,28 @@ section{
     background-repeat: no-repeat;
     
 }
+
+.food-gallery{
+
+}
+
+.one-third-width{
+    width: 29%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.one-third-width img{
+    width:95%;
+    border-radius: 5%;
+    margin-top: 5%;
+}
+
+.recipie-intro{
+    text-align: center;
+}
+
+
