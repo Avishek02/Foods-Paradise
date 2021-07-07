@@ -17,6 +17,7 @@ h2{
 
 .flexible-container{
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width{
@@ -48,9 +49,7 @@ h2{
     
 }
 
-.food-gallery{
 
-}
 
 .one-third-width{
     width: 29%;
@@ -67,8 +66,16 @@ h2{
     margin-top: 5%;
 }
 
-.recipie-intro{
+.text-center{
     text-align: center;
+}
+
+
+footer{
+    background-color: black;
+    color: rgba(255, 255, 255, 0.726);
+    padding-top: 5px;
+    padding-bottom: 40px;
 }
 
 
